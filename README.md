@@ -1,5 +1,5 @@
 # ReversiProgram
-Reversi Program for CIS 200. Program is an implementation of the Reversi board game.
+Reversi Program for Computer Science 2 class. Program is an implementation of the Reversi board game.
 
 ## INTRODUCTION: THE GAME OF REVERSI
 
